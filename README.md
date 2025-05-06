@@ -2,17 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+I'm+Binaya+Raj+Thapa+👋;A+React+Developer+💻;Passionate+about+Clean+UIs+🎨;)](https://github.com/BinayRajThapa)
 
 # 💫 About Me,
-- 🎓 Final year CSE student at **Kathmandu University**.<br>
+- 🎓 Final year CS student at **Kathmandu University**.<br>
 - 🧠 I love building things in **MERN**, **Python**, and **Flask**.<br>
 - 🌱 Learning: Next.js, Django, Machine Learning.<br>
 - 🧩 Curious about AI integration in web apps and productivity tools.<br>
-- 🌐 Exploring open source and looking forward to contributing.<br>
 - 🔍 Currently working on a full-stack social media web app.
-
----
-
-# 🌐 Portfolio
-Check out my developer portfolio → [binayrajthapa.dev](https://www.binayarajthapa.com.np/)
 
 ---
 
@@ -33,10 +27,7 @@ Check out my developer portfolio → [binayrajthapa.dev](https://www.binayarajth
 
 ---
 
-## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/binay-raj-thapa)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:binayrajthapa@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/BinayRajThapa)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://www.binayarajthapa.com.np/)
+# 🌐 Portfolio
+Check out my developer portfolio → [binayrajthapa.dev](https://www.binayarajthapa.com.np/)
 
 ---
