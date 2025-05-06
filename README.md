@@ -1,5 +1,10 @@
-# 💫 About Me:
-- 🎓 Final year CSE student at **Kathmandu University**.<br>- 🧠 I love building things in **MERN**, **Python**, and **Flask**.<br>- 🌱 Learning: Next.js, Django, Machine Learning.<br>- 🧩 Curious about AI integration in web apps and productivity tools.<br>- 🌐 Exploring open source and looking forward to contributing.<br>- 🔍 Currently working on a full-stack social media web app.
+# 💫 Hi, I am Binay,
+- 🎓 Final year CSE student at **Kathmandu University**.<br>
+- 🧠 I love building things in **MERN**, **Python**, and **Flask**.<be>
+- 🌱 Learning: Next.js, Django, Machine Learning.<be>
+- 🧩 Curious about AI integration in web apps and productivity tools.<be>
+- 🌐 Exploring open source and looking forward to contributing.<be>
+- 🔍 Currently working on a full-stack social media web app.
 
 
 ## 🌐 Socials:
