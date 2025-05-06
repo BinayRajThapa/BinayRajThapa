@@ -11,14 +11,6 @@
 
 ---
 
-# 🛠 Featured Projects
-- 🔗 [**NylonWears**](https://github.com/BinayRajThapa/NylonWears): E-commerce platform with payment integration, admin panel, and user auth.
-- 📈 [**Predictive Estates**](https://github.com/BinayRajThapa/PredictiveEstates): Real estate price prediction using ML & Flask.
-- 🧾 [**BillX**](https://github.com/BinayRajThapa/BillX): Invoice manager with printable bills, React UI & Mongo backend.
-
-
----
-
 # 🌐 Portfolio
 Check out my developer portfolio → [binayrajthapa.dev](https://www.binayarajthapa.com.np/)
 
