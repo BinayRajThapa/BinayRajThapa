@@ -28,6 +28,6 @@
 ---
 
 # 🌐 Portfolio
-Check out my developer portfolio → [binayrajthapa.dev](https://www.binayarajthapa.com.np/)
+Check out my portfolio → [binayrajthapa](https://www.binayarajthapa.com.np/)
 
 ---
