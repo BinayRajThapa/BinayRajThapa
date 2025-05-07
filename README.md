@@ -28,6 +28,6 @@
 ---
 
 # 🌐 Portfolio
-Check out my portfolio → [binayrajthapa](https://www.binayarajthapa.com.np/)
+Check out my portfolio → [Binaya Raj Thapa](https://www.binayarajthapa.com.np/)
 
 ---
