@@ -6,7 +6,7 @@
 - 🧠 I love building things in **MERN**, **Python**, and **Flask**.<br>
 - 🌱 Learning: Next.js, Django, Machine Learning.<br>
 - 🧩 Curious about AI integration in web apps and productivity tools.<br>
-- 🔍 Currently working on a full-stack social media web app.
+- 🔍 Currently working on Axios Softwork as a React Developer.
 
 ---
 
